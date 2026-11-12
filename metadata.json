@@ -1,0 +1,6 @@
+{
+  "name": "GUN AC – FUSE, RELAY & WIRING DIAGRAM",
+  "description": "Referensi teknis otomotif profesional untuk diagram sekring, relay, kelistrikan AC konvensional, dan AC mobil listrik/bus/truk berbasis manual OEM asli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
